@@ -11,7 +11,9 @@ I am currently a third-year PhD student in Computer Science at [Vanderbilt Unive
 
 I am deeply engaged in exploring the realms of self and semi-supervised learning within machine and deep learning, specifically tailored to the field of medical imaging. My focus is on advancing generative models capable of effectively learning from imperfect datasets characterized by limited and noisy data. I bring extensive experience in various imaging modalities, including neuroimaging with a focus on multiple sclerosis, PET imaging, and Optical Coherence Tomography (OCT) images.
 
-I enjoyed a great time playing tennis, poker and skiing apart from my research.
+you can find my CV here: [CV](../assets/Jiacheng_Wang_s_CV.pdf)
+
+I enjoyed a great time playing tennis, poker and skiing apart from my research. And I have a handsome black Shiba-Inu -- Mochi.
 
 **I am looking for intern positions starting from Summer 2024.**
 
@@ -21,7 +23,7 @@ News
 
 * [07/2023] Our work on brain tissue inpainting presented at MIDL 2023 with [video](https://www.youtube.com/watch?v=S1z7zbSDmmI&start=17880) 
 
-Service
+Services
 ------
 * Guest Lectures of CS graduate course (CS-8395 Open Source Programming for Medical Image Processing), 22/23. 
 tl;dr: Checkout the synthetic registration on monai [notebook](https://colab.research.google.com/drive/1PZjg42YEIP64PIeSa4ksMPpdx9sWxYaE?usp=sharing)
