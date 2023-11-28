@@ -4,8 +4,11 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Email: jiacheng.wang.1 [at] vanderbilt.edu
-MedICL Lab Twitter: https://x.com/MMedicl?s=20
-Bagnato Lab Twitter: https://x.com/BagnatoLab?s=20 
+Email: jiacheng.wang.1 [at] vanderbilt.edu <br>
+Personal Twitter: [Me](https://twitter.com/Jackson32106701)<br>
+MedICL Lab Twitter: [MedICL](https://x.com/MMedicl?s=20) <br>
+Bagnato Lab Twitter: [Bagnato](https://x.com/BagnatoLab?s=20) <br>
+We have a great collabrative research institute, please check out [VISE](https://www.vanderbilt.edu/vise/) <br>
 
-<a href="https://clustrmaps.com/site/1bu1a" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=f2bbbb&w=a&t=n&d=Vhla3yOBSeYc8iBQo-LI4wF1tAMKo6rNBt7_hmTx224&co=d0e5f4&ct=722424" /></a>
+
+<a href="https://clustrmaps.com/site/1bxk0"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=NF7uwWnL7C22h9tFLpvSDVBjslLqfvM8WIOp6ZxXz7s&cl=ffffff" /></a>
