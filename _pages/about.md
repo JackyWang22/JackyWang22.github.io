@@ -19,8 +19,10 @@ I enjoyed a great time playing tennis, poker and skiing apart from my research. 
 
 News
 ------
+* [05/2024] Oral Presentations in ISBI 2024 for [OCT stitching](https://arxiv.org/abs/2311.13052) and [Foundation model](https://arxiv.org/abs/2310.19721) and Poster presnetation in [Foundation model](https://arxiv.org/abs/2311.07806).
+* [05/2024] Invited prenseter in ACTRIMS 2024 Young scientist summit, [link](https://www.actrims.org/young-scientist-summit)
+* [03/2024] IEEE ISBI 2024 Student Travel Grant, [link](https://biomedicalimaging.org/2024/student-travel-grant-winners/)
 * [11/2023] Our work in novel image mosaciking is on [Arxiv](https://arxiv.org/abs/2311.13052)
-
 * [07/2023] Our work on brain tissue inpainting presented at MIDL 2023 with [video](https://www.youtube.com/watch?v=S1z7zbSDmmI&start=17880) 
 
 Services
@@ -28,7 +30,7 @@ Services
 * Guest Lectures of CS graduate course (CS-8395 Open Source Programming for Medical Image Processing), 22/23. 
 tl;dr: Checkout the synthetic registration on monai [notebook](https://colab.research.google.com/drive/1PZjg42YEIP64PIeSa4ksMPpdx9sWxYaE?usp=sharing)
 
-* Reviewer for MICCAI, ISBI, MIDL
+* Reviewer for MELBA, MICCAI, ISBI, MIDL, ICML, CVPR
 
 * TA courses: 
   1. Graduate-level Machine Learning/Deep learning at NYU, VU; 
